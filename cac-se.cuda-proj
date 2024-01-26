@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    "{ProjDir}"
+  ],
+  "vars": [],
+  "mainfile": "",
+  "unfold": [
+    "/home/admin/anp.net/cac-se",
+    "/home/admin/anp.net/cac-se/matrix",
+    "/home/admin/anp.net/cac-se/matrix/gnu",
+    "/home/admin/anp.net/cac-se/matrix/gnu/bin"
+  ]
+}
